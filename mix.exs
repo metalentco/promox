@@ -27,7 +27,7 @@ defmodule Promox.MixProject do
     %{
       licenses: ["Apache-2.0"],
       maintainers: ["Yiming Chen"],
-      links: %{"GitHub" => "https://github.com/dsdshcym/promox"}
+      links: %{"GitHub" => "https://github.com/metalentco/promox"}
     }
   end
 
